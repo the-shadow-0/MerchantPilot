@@ -22,17 +22,17 @@ MerchantPilot is built with a premium, sleek, and highly dynamic user interface 
 ### 📊 Metric Dashboard
 An eagle-eye view of your connected sales channels, revenue velocity, and recent background tasks performed by your agents.
 
-<img src="/home/ai-creator/.gemini/antigravity/brain/67f9ddf4-07e9-42ed-bea9-98ed8e40bfe3/dashboard_home_1772925332215.png" width="800" alt="Dashboard" />
+<img src="./screenshots/dashboard.png" width="800" alt="Dashboard" />
 
 ### 🤖 Catalog & AI Co-Pilot
 Edit your cross-channel catalog while simultaneously chatting with the **Listing Agent**—powered entirely by local Ollama models (Llama 3, Mistral) streaming directly into the Next.js UI to generate highly-converting, SEO-optimized copy.
 
-<img src="/home/ai-creator/.gemini/antigravity/brain/67f9ddf4-07e9-42ed-bea9-98ed8e40bfe3/catalog_ai_editor_1772925342381.png" width="800" alt="Catalog Manager" />
+<img src="./screenshots/catalog.png" width="800" alt="Catalog Manager" />
 
 ### 👥 Customer Insights (New)
 The **Growth Agent** automatically data-mines thousand of review transcripts and purchase trends, distilling them into distinct Behavioral Cohorts with automated AI Sentiment Analysis and Churn Prediction.
 
-<img src="/home/ai-creator/.gemini/antigravity/brain/67f9ddf4-07e9-42ed-bea9-98ed8e40bfe3/customer_insights_1772925355304.png" width="800" alt="Customer Insights" />
+<img src="./screenshots/customers.png" width="800" alt="Customer Insights" />
 
 ### 🚚 Order Exceptions & 🛡️ Compliance Guards
 - **Exceptions**: Track fulfillment anomalies (e.g. invalid addresses, overselling) and click **"Auto-Resolve"** to let the agent automatically handle customer communications and backend refunds.
