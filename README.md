@@ -75,3 +75,11 @@ ollama pull llama3
 ```
 
 Visit `http://localhost:3000` to access the MerchantPilot dashboard.
+
+---
+
+⚖️ License
+
+This project is licensed under the MIT License © 2026 Noureddine (the-shadow-0). 📜
+
+---
