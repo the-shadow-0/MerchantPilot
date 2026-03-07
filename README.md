@@ -29,7 +29,7 @@ Edit your cross-channel catalog while simultaneously chatting with the **Listing
 
 <img src="./screenshots/catalog.png" width="800" alt="Catalog Manager" />
 
-### 👥 Customer Insights (New)
+### 👥 Customer Insights
 The **Growth Agent** automatically data-mines thousand of review transcripts and purchase trends, distilling them into distinct Behavioral Cohorts with automated AI Sentiment Analysis and Churn Prediction.
 
 <img src="./screenshots/customers.png" width="800" alt="Customer Insights" />
