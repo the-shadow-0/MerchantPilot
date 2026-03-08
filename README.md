@@ -9,7 +9,7 @@
   [![Ollama](https://img.shields.io/badge/Local_AI-Ollama-white?logo=ollama)](https://ollama.ai/)
 </div>
 
-<br />
+<br /> 
 
 > Small merchants selling across multiple marketplaces (Amazon, Shopify, Etsy) struggle to keep listings optimized, orders reconciled, and policies compliant. **MerchantPilot** solves this by orchestrating autonomous, local AI agents that operate as your relentless back-office team.
 
