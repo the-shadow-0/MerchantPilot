@@ -1,7 +1,7 @@
 <div align="center"> 
   <img src="apps/web/public/logo.png" alt="MerchantPilot Logo" width="120" />
   <h1>🚀 MerchantPilot</h1> 
-  <p><strong>The AI Agent Operations Platform for Power E-commerce Sellers</strong></p>
+  <p><strong>The AI Agent Operations Platform for Power E-commerce Sellers</strong></p> 
   
   [![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)](https://nextjs.org/)
   [![Tailwind v4](https://img.shields.io/badge/TailwindCSS-v4-06B6D4?logo=tailwindcss)](https://tailwindcss.com/)
