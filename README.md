@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
   <img src="apps/web/public/logo.png" alt="MerchantPilot Logo" width="120" />
   <h1>🚀 MerchantPilot</h1> 
   <p><strong>The AI Agent Operations Platform for Power E-commerce Sellers</strong></p> 
